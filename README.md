@@ -25,5 +25,3 @@ To use Pandas Profiling, you need to import the necessary libraries and load you
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or find a bug, please open an issue or submit a pull request.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
